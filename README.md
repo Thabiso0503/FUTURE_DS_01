@@ -122,6 +122,5 @@ Potential recommendations include:
 superstore-sales-analysis/
 │── dataset/
 │── dashboard/
-
 │── README.md
 
